@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  outline: 1px red solid;
+}
+
+.top {
+  display: flex;
+  padding: 1rem;
+}
+
+.top div {
+  padding: 2rem;
+}
+
+.bottom {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.bottom form {
+  padding: 2rem;
+}
